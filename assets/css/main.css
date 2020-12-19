@@ -1436,11 +1436,11 @@ input, select, textarea {
 /* Reusable */
 
 	article.blog-post {
-		position: middle;
+		position: static;
 	}
 
 		article.blog-post .comments {
-			position: middle;
+			position: relative;
 			top: 0;
 			right: 0;
 			height: 32px;
