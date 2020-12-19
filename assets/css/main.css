@@ -1450,7 +1450,7 @@ input, select, textarea {
 		}
 
 		article.blog-post .blog-post-image {
-			width: 500%;
+			width: 300%;
 		}
 
 	ul.small-image-list li {
@@ -1957,7 +1957,7 @@ input, select, textarea {
 			}
 
 			.blog-post-image {
-				width: 500%;
+				width: 100%;
 			}
 
 		/* Banner */
