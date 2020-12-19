@@ -1436,7 +1436,7 @@ input, select, textarea {
 /* Reusable */
 
 	article.blog-post {
-		position: relative;
+		position: middle;
 	}
 
 		article.blog-post .comments {
