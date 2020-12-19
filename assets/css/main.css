@@ -1450,9 +1450,8 @@ input, select, textarea {
 		}
 
 		article.blog-post .blog-post-image {
-			width: 300%;
+			width: 100%;
 		}
-
 	ul.small-image-list li {
 		overflow: hidden;
 		margin-bottom: 1.5em;
